@@ -1,0 +1,16 @@
+.footer {
+    padding: 20px;
+    background-color: rgb(28, 36, 43);
+    color: #fff;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 20px;
+}
+
+@media (max-width: 636px) {
+    .footer p {
+        font-size: 17px;
+    }
+}
